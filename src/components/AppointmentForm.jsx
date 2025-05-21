@@ -120,9 +120,9 @@ export default function AppointmentForm() {
             className="w-full px-4 py-3 bg-white/50 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all duration-200 ease-in-out hover:border-gray-300"
           >
             <option value="">Seleccione una opción</option>
-            <option value="Presidente">Presidente</option>
-            <option value="1er Consejero">1er Consejero</option>
-            <option value="2do Consejero">2do Consejero</option>
+            <option value="Presidente">PDTE Perez</option>
+            <option value="1er Consejero">PDTE Alcauter</option>
+            <option value="2do Consejero">PDTE Lhimi</option>
           </select>
         </div>
 
